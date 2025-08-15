@@ -1,3 +1,6 @@
+##Name : Periyaraja.P.M
+##Dept : CSE(IOT)
+
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -86,9 +89,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-### CLIENT OUTPUT:
+<img width="1919" height="1199" alt="Screenshot 2025-08-15 223443" src="https://github.com/user-attachments/assets/0d4a8686-9c3f-4849-8cde-f1ca7d3e8a73" />
 
-### SERVER OUTPUT:
 
 ## RESULT:
 The program is executed succesfully

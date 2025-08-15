@@ -1,5 +1,5 @@
-##Name : Periyaraja.P.M
-##Dept : CSE(IOT)
+## Name : Periyaraja.P.M
+## Dept : CSE(IOT)
 
 # Echoserver
 Echo server and client using python socket
